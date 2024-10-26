@@ -1,0 +1,149 @@
+{
+  "": {
+    "swift-dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/master.swiftdeps"
+  },
+  "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Bookmark/BookmarkFacadeTests.swift": {
+    "dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/BookmarkFacadeTests.d",
+    "object": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/BookmarkFacadeTests.swift.o",
+    "swiftmodule": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/BookmarkFacadeTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/BookmarkFacadeTests.swiftdeps"
+  },
+  "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Bookmark/BookmarkPresenterTests.swift": {
+    "dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/BookmarkPresenterTests.d",
+    "object": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/BookmarkPresenterTests.swift.o",
+    "swiftmodule": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/BookmarkPresenterTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/BookmarkPresenterTests.swiftdeps"
+  },
+  "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Bookmark/Helpers/BookmarkPresenterSpy.swift": {
+    "dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/BookmarkPresenterSpy.d",
+    "object": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/BookmarkPresenterSpy.swift.o",
+    "swiftmodule": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/BookmarkPresenterSpy~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/BookmarkPresenterSpy.swiftdeps"
+  },
+  "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Bookmark/Helpers/BookmarkStoreMock.swift": {
+    "dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/BookmarkStoreMock.d",
+    "object": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/BookmarkStoreMock.swift.o",
+    "swiftmodule": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/BookmarkStoreMock~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/BookmarkStoreMock.swiftdeps"
+  },
+  "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/ContentBlocking/ContentBlockingTests.swift": {
+    "dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/ContentBlockingTests.d",
+    "object": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/ContentBlockingTests.swift.o",
+    "swiftmodule": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/ContentBlockingTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/ContentBlockingTests.swiftdeps"
+  },
+  "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/ContentBlocking/SafelistStoreTests.swift": {
+    "dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/SafelistStoreTests.d",
+    "object": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/SafelistStoreTests.swift.o",
+    "swiftmodule": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/SafelistStoreTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/SafelistStoreTests.swiftdeps"
+  },
+  "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Helpers/HelpersTests.swift": {
+    "dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/HelpersTests.d",
+    "object": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/HelpersTests.swift.o",
+    "swiftmodule": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/HelpersTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/HelpersTests.swiftdeps"
+  },
+  "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Helpers/SafelistStoreSpy.swift": {
+    "dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/SafelistStoreSpy.d",
+    "object": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/SafelistStoreSpy.swift.o",
+    "swiftmodule": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/SafelistStoreSpy~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/SafelistStoreSpy.swiftdeps"
+  },
+  "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Helpers/WindowPresenterSpy.swift": {
+    "dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WindowPresenterSpy.d",
+    "object": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WindowPresenterSpy.swift.o",
+    "swiftmodule": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WindowPresenterSpy~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WindowPresenterSpy.swiftdeps"
+  },
+  "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/History/Helpers/HistoryPresenterSpy.swift": {
+    "dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/HistoryPresenterSpy.d",
+    "object": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/HistoryPresenterSpy.swift.o",
+    "swiftmodule": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/HistoryPresenterSpy~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/HistoryPresenterSpy.swiftdeps"
+  },
+  "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/History/Helpers/HistoryStoreMock.swift": {
+    "dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/HistoryStoreMock.d",
+    "object": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/HistoryStoreMock.swift.o",
+    "swiftmodule": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/HistoryStoreMock~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/HistoryStoreMock.swiftdeps"
+  },
+  "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/History/HistoryFacadeTests.swift": {
+    "dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/HistoryFacadeTests.d",
+    "object": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/HistoryFacadeTests.swift.o",
+    "swiftmodule": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/HistoryFacadeTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/HistoryFacadeTests.swiftdeps"
+  },
+  "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/History/HistoryPresenterTests.swift": {
+    "dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/HistoryPresenterTests.d",
+    "object": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/HistoryPresenterTests.swift.o",
+    "swiftmodule": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/HistoryPresenterTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/HistoryPresenterTests.swiftdeps"
+  },
+  "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Search/SearchEngineURLBuilderTests.swift": {
+    "dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/SearchEngineURLBuilderTests.d",
+    "object": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/SearchEngineURLBuilderTests.swift.o",
+    "swiftmodule": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/SearchEngineURLBuilderTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/SearchEngineURLBuilderTests.swiftdeps"
+  },
+  "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Search/SearchURLBuilderTests.swift": {
+    "dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/SearchURLBuilderTests.d",
+    "object": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/SearchURLBuilderTests.swift.o",
+    "swiftmodule": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/SearchURLBuilderTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/SearchURLBuilderTests.swiftdeps"
+  },
+  "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Search/URIFixupTests.swift": {
+    "dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/URIFixupTests.d",
+    "object": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/URIFixupTests.swift.o",
+    "swiftmodule": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/URIFixupTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/URIFixupTests.swiftdeps"
+  },
+  "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/TestHelpers/WebViewSpy.swift": {
+    "dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WebViewSpy.d",
+    "object": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WebViewSpy.swift.o",
+    "swiftmodule": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WebViewSpy~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WebViewSpy.swiftdeps"
+  },
+  "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/WebKitEngine/Helpers/WKContentRuleListStoreSpy.swift": {
+    "dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WKContentRuleListStoreSpy.d",
+    "object": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WKContentRuleListStoreSpy.swift.o",
+    "swiftmodule": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WKContentRuleListStoreSpy~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WKContentRuleListStoreSpy.swiftdeps"
+  },
+  "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/WebKitEngine/Helpers/WKUserContentControllerSpy.swift": {
+    "dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WKUserContentControllerSpy.d",
+    "object": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WKUserContentControllerSpy.swift.o",
+    "swiftmodule": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WKUserContentControllerSpy~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WKUserContentControllerSpy.swiftdeps"
+  },
+  "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/WebKitEngine/Helpers/WebViewMock.swift": {
+    "dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WebViewMock.d",
+    "object": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WebViewMock.swift.o",
+    "swiftmodule": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WebViewMock~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WebViewMock.swiftdeps"
+  },
+  "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/WebKitEngine/Helpers/WebViewProxyDelegateSpy.swift": {
+    "dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WebViewProxyDelegateSpy.d",
+    "object": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WebViewProxyDelegateSpy.swift.o",
+    "swiftmodule": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WebViewProxyDelegateSpy~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WebViewProxyDelegateSpy.swiftdeps"
+  },
+  "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/WebKitEngine/WebKitEngineWrapperTests.swift": {
+    "dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WebKitEngineWrapperTests.d",
+    "object": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WebKitEngineWrapperTests.swift.o",
+    "swiftmodule": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WebKitEngineWrapperTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WebKitEngineWrapperTests.swiftdeps"
+  },
+  "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Window/WindowFacadeTests.swift": {
+    "dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WindowFacadeTests.d",
+    "object": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WindowFacadeTests.swift.o",
+    "swiftmodule": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WindowFacadeTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WindowFacadeTests.swiftdeps"
+  },
+  "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Window/WindowPresenterTests.swift": {
+    "dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WindowPresenterTests.d",
+    "object": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WindowPresenterTests.swift.o",
+    "swiftmodule": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WindowPresenterTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WindowPresenterTests.swiftdeps"
+  }
+}

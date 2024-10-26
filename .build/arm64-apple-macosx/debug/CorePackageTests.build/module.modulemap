@@ -1,0 +1,4 @@
+module CorePackageTests {
+    header "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CorePackageTests.build/CorePackageTests-Swift.h"
+    requires objc
+}

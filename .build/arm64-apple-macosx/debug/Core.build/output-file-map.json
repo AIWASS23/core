@@ -1,0 +1,161 @@
+{
+  "": {
+    "swift-dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/master.swiftdeps"
+  },
+  "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Bookmark/BookmarkAPI.swift": {
+    "dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/BookmarkAPI.d",
+    "object": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/BookmarkAPI.swift.o",
+    "swiftmodule": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/BookmarkAPI~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/BookmarkAPI.swiftdeps"
+  },
+  "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Bookmark/BookmarkFacade.swift": {
+    "dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/BookmarkFacade.d",
+    "object": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/BookmarkFacade.swift.o",
+    "swiftmodule": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/BookmarkFacade~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/BookmarkFacade.swiftdeps"
+  },
+  "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Bookmark/BookmarkPresentableModel.swift": {
+    "dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/BookmarkPresentableModel.d",
+    "object": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/BookmarkPresentableModel.swift.o",
+    "swiftmodule": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/BookmarkPresentableModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/BookmarkPresentableModel.swiftdeps"
+  },
+  "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Bookmark/BookmarkPresenter.swift": {
+    "dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/BookmarkPresenter.d",
+    "object": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/BookmarkPresenter.swift.o",
+    "swiftmodule": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/BookmarkPresenter~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/BookmarkPresenter.swiftdeps"
+  },
+  "/Users/marcelodearaujo/Desktop/Core/Sources/Core/ContentBlocking/ContentBlocking.swift": {
+    "dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/ContentBlocking.d",
+    "object": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/ContentBlocking.swift.o",
+    "swiftmodule": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/ContentBlocking~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/ContentBlocking.swiftdeps"
+  },
+  "/Users/marcelodearaujo/Desktop/Core/Sources/Core/ContentBlocking/SafelistAPI.swift": {
+    "dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/SafelistAPI.d",
+    "object": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/SafelistAPI.swift.o",
+    "swiftmodule": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/SafelistAPI~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/SafelistAPI.swiftdeps"
+  },
+  "/Users/marcelodearaujo/Desktop/Core/Sources/Core/ContentBlocking/SafelistStore.swift": {
+    "dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/SafelistStore.d",
+    "object": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/SafelistStore.swift.o",
+    "swiftmodule": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/SafelistStore~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/SafelistStore.swiftdeps"
+  },
+  "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Helpers/Helpers.swift": {
+    "dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/Helpers.d",
+    "object": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/Helpers.swift.o",
+    "swiftmodule": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/Helpers~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/Helpers.swiftdeps"
+  },
+  "/Users/marcelodearaujo/Desktop/Core/Sources/Core/History/HistoryAPI.swift": {
+    "dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/HistoryAPI.d",
+    "object": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/HistoryAPI.swift.o",
+    "swiftmodule": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/HistoryAPI~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/HistoryAPI.swiftdeps"
+  },
+  "/Users/marcelodearaujo/Desktop/Core/Sources/Core/History/HistoryFacade.swift": {
+    "dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/HistoryFacade.d",
+    "object": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/HistoryFacade.swift.o",
+    "swiftmodule": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/HistoryFacade~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/HistoryFacade.swiftdeps"
+  },
+  "/Users/marcelodearaujo/Desktop/Core/Sources/Core/History/HistoryPresentableModel.swift": {
+    "dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/HistoryPresentableModel.d",
+    "object": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/HistoryPresentableModel.swift.o",
+    "swiftmodule": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/HistoryPresentableModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/HistoryPresentableModel.swiftdeps"
+  },
+  "/Users/marcelodearaujo/Desktop/Core/Sources/Core/History/HistoryPresenter.swift": {
+    "dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/HistoryPresenter.d",
+    "object": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/HistoryPresenter.swift.o",
+    "swiftmodule": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/HistoryPresenter~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/HistoryPresenter.swiftdeps"
+  },
+  "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Search/Extensions/NSCharacterSetExtensions.swift": {
+    "dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/NSCharacterSetExtensions.d",
+    "object": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/NSCharacterSetExtensions.swift.o",
+    "swiftmodule": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/NSCharacterSetExtensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/NSCharacterSetExtensions.swiftdeps"
+  },
+  "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Search/Extensions/URLExtensions.swift": {
+    "dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/URLExtensions.d",
+    "object": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/URLExtensions.swift.o",
+    "swiftmodule": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/URLExtensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/URLExtensions.swiftdeps"
+  },
+  "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Search/SearchEngineURLBuilder.swift": {
+    "dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/SearchEngineURLBuilder.d",
+    "object": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/SearchEngineURLBuilder.swift.o",
+    "swiftmodule": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/SearchEngineURLBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/SearchEngineURLBuilder.swiftdeps"
+  },
+  "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Search/SearchURLBuilder.swift": {
+    "dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/SearchURLBuilder.d",
+    "object": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/SearchURLBuilder.swift.o",
+    "swiftmodule": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/SearchURLBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/SearchURLBuilder.swiftdeps"
+  },
+  "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Search/URIFixup.swift": {
+    "dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/URIFixup.d",
+    "object": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/URIFixup.swift.o",
+    "swiftmodule": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/URIFixup~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/URIFixup.swiftdeps"
+  },
+  "/Users/marcelodearaujo/Desktop/Core/Sources/Core/WebEngineAPI/WebEngineContract.swift": {
+    "dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/WebEngineContract.d",
+    "object": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/WebEngineContract.swift.o",
+    "swiftmodule": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/WebEngineContract~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/WebEngineContract.swiftdeps"
+  },
+  "/Users/marcelodearaujo/Desktop/Core/Sources/Core/WebEngineAPI/WebEngineDelegate.swift": {
+    "dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/WebEngineDelegate.d",
+    "object": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/WebEngineDelegate.swift.o",
+    "swiftmodule": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/WebEngineDelegate~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/WebEngineDelegate.swiftdeps"
+  },
+  "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Window/WindowFacade.swift": {
+    "dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/WindowFacade.d",
+    "object": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/WindowFacade.swift.o",
+    "swiftmodule": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/WindowFacade~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/WindowFacade.swiftdeps"
+  },
+  "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Window/WindowPresentableModel.swift": {
+    "dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/WindowPresentableModel.d",
+    "object": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/WindowPresentableModel.swift.o",
+    "swiftmodule": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/WindowPresentableModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/WindowPresentableModel.swiftdeps"
+  },
+  "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Window/WindowPresenter.swift": {
+    "dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/WindowPresenter.d",
+    "object": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/WindowPresenter.swift.o",
+    "swiftmodule": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/WindowPresenter~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/WindowPresenter.swiftdeps"
+  },
+  "/Users/marcelodearaujo/Desktop/Core/Sources/Core/_External/BookmarkSwiftDataStore.swift": {
+    "dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/BookmarkSwiftDataStore.d",
+    "object": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/BookmarkSwiftDataStore.swift.o",
+    "swiftmodule": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/BookmarkSwiftDataStore~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/BookmarkSwiftDataStore.swiftdeps"
+  },
+  "/Users/marcelodearaujo/Desktop/Core/Sources/Core/_External/HistorySwiftDataStore.swift": {
+    "dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/HistorySwiftDataStore.d",
+    "object": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/HistorySwiftDataStore.swift.o",
+    "swiftmodule": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/HistorySwiftDataStore~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/HistorySwiftDataStore.swiftdeps"
+  },
+  "/Users/marcelodearaujo/Desktop/Core/Sources/Core/_External/WebKitEngineWrapper.swift": {
+    "dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/WebKitEngineWrapper.d",
+    "object": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/WebKitEngineWrapper.swift.o",
+    "swiftmodule": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/WebKitEngineWrapper~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/WebKitEngineWrapper.swiftdeps"
+  },
+  "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/DerivedSources/resource_bundle_accessor.swift": {
+    "dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/resource_bundle_accessor.d",
+    "object": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/resource_bundle_accessor.swift.o",
+    "swiftmodule": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/resource_bundle_accessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/resource_bundle_accessor.swiftdeps"
+  }
+}

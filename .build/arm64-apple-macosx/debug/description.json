@@ -1,0 +1,1603 @@
+{
+  "builtTestProducts" : [
+    {
+      "binaryPath" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CorePackageTests.xctest/Contents/MacOS/CorePackageTests",
+      "packagePath" : "/Users/marcelodearaujo/Desktop/Core",
+      "productName" : "CorePackageTests"
+    }
+  ],
+  "copyCommands" : {
+    "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core_Core.bundle/AdvertisingRules.json" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/_External/JsonRules/AdvertisingRules.json"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core_Core.bundle/AdvertisingRules.json"
+        }
+      ]
+    },
+    "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core_Core.bundle/AnalyticsRules.json" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/_External/JsonRules/AnalyticsRules.json"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core_Core.bundle/AnalyticsRules.json"
+        }
+      ]
+    },
+    "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core_Core.bundle/CookiesAdvertisingRules.json" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/_External/JsonRules/CookiesAdvertisingRules.json"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core_Core.bundle/CookiesAdvertisingRules.json"
+        }
+      ]
+    },
+    "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core_Core.bundle/CookiesAnalyticsRules.json" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/_External/JsonRules/CookiesAnalyticsRules.json"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core_Core.bundle/CookiesAnalyticsRules.json"
+        }
+      ]
+    },
+    "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core_Core.bundle/CookiesContentRules.json" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/_External/JsonRules/CookiesContentRules.json"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core_Core.bundle/CookiesContentRules.json"
+        }
+      ]
+    },
+    "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core_Core.bundle/CookiesSocialRules.json" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/_External/JsonRules/CookiesSocialRules.json"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core_Core.bundle/CookiesSocialRules.json"
+        }
+      ]
+    },
+    "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core_Core.bundle/CryptominingRules.json" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/_External/JsonRules/CryptominingRules.json"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core_Core.bundle/CryptominingRules.json"
+        }
+      ]
+    },
+    "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core_Core.bundle/FingerprintingRules.json" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/_External/JsonRules/FingerprintingRules.json"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core_Core.bundle/FingerprintingRules.json"
+        }
+      ]
+    },
+    "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core_Core.bundle/SocialRules.json" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/_External/JsonRules/SocialRules.json"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core_Core.bundle/SocialRules.json"
+        }
+      ]
+    }
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.Core-arm64-apple-macosx15.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/sources",
+      "importPath" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Bookmark/BookmarkAPI.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Bookmark/BookmarkFacade.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Bookmark/BookmarkPresentableModel.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Bookmark/BookmarkPresenter.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/ContentBlocking/ContentBlocking.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/ContentBlocking/SafelistAPI.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/ContentBlocking/SafelistStore.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Helpers/Helpers.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/History/HistoryAPI.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/History/HistoryFacade.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/History/HistoryPresentableModel.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/History/HistoryPresenter.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Search/Extensions/NSCharacterSetExtensions.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Search/Extensions/URLExtensions.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Search/SearchEngineURLBuilder.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Search/SearchURLBuilder.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Search/URIFixup.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/WebEngineAPI/WebEngineContract.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/WebEngineAPI/WebEngineDelegate.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Window/WindowFacade.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Window/WindowPresentableModel.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Window/WindowPresenter.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/_External/BookmarkSwiftDataStore.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/_External/HistorySwiftDataStore.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/_External/WebKitEngineWrapper.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/DerivedSources/resource_bundle_accessor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "virtual",
+          "name" : "<Core-arm64-apple-macosx15.0-debug.module-resources>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "Core",
+      "moduleOutputPath" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Modules/Core.swiftmodule",
+      "objects" : [
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/BookmarkAPI.swift.o",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/BookmarkFacade.swift.o",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/BookmarkPresentableModel.swift.o",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/BookmarkPresenter.swift.o",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/ContentBlocking.swift.o",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/SafelistAPI.swift.o",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/SafelistStore.swift.o",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/Helpers.swift.o",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/HistoryAPI.swift.o",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/HistoryFacade.swift.o",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/HistoryPresentableModel.swift.o",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/HistoryPresenter.swift.o",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/NSCharacterSetExtensions.swift.o",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/URLExtensions.swift.o",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/SearchEngineURLBuilder.swift.o",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/SearchURLBuilder.swift.o",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/URIFixup.swift.o",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/WebEngineContract.swift.o",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/WebEngineDelegate.swift.o",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/WindowFacade.swift.o",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/WindowPresentableModel.swift.o",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/WindowPresenter.swift.o",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/BookmarkSwiftDataStore.swift.o",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/HistorySwiftDataStore.swift.o",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/WebKitEngineWrapper.swift.o",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/resource_bundle_accessor.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/Core-Swift.h",
+        "-swift-version",
+        "6",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "core"
+      ],
+      "outputFileMapPath" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/BookmarkAPI.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/BookmarkFacade.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/BookmarkPresentableModel.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/BookmarkPresenter.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/ContentBlocking.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/SafelistAPI.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/SafelistStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/Helpers.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/HistoryAPI.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/HistoryFacade.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/HistoryPresentableModel.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/HistoryPresenter.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/NSCharacterSetExtensions.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/URLExtensions.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/SearchEngineURLBuilder.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/SearchURLBuilder.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/URIFixup.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/WebEngineContract.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/WebEngineDelegate.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/WindowFacade.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/WindowPresentableModel.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/WindowPresenter.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/BookmarkSwiftDataStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/HistorySwiftDataStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/WebKitEngineWrapper.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/resource_bundle_accessor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Modules/Core.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Bookmark/BookmarkAPI.swift",
+        "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Bookmark/BookmarkFacade.swift",
+        "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Bookmark/BookmarkPresentableModel.swift",
+        "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Bookmark/BookmarkPresenter.swift",
+        "/Users/marcelodearaujo/Desktop/Core/Sources/Core/ContentBlocking/ContentBlocking.swift",
+        "/Users/marcelodearaujo/Desktop/Core/Sources/Core/ContentBlocking/SafelistAPI.swift",
+        "/Users/marcelodearaujo/Desktop/Core/Sources/Core/ContentBlocking/SafelistStore.swift",
+        "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Helpers/Helpers.swift",
+        "/Users/marcelodearaujo/Desktop/Core/Sources/Core/History/HistoryAPI.swift",
+        "/Users/marcelodearaujo/Desktop/Core/Sources/Core/History/HistoryFacade.swift",
+        "/Users/marcelodearaujo/Desktop/Core/Sources/Core/History/HistoryPresentableModel.swift",
+        "/Users/marcelodearaujo/Desktop/Core/Sources/Core/History/HistoryPresenter.swift",
+        "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Search/Extensions/NSCharacterSetExtensions.swift",
+        "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Search/Extensions/URLExtensions.swift",
+        "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Search/SearchEngineURLBuilder.swift",
+        "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Search/SearchURLBuilder.swift",
+        "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Search/URIFixup.swift",
+        "/Users/marcelodearaujo/Desktop/Core/Sources/Core/WebEngineAPI/WebEngineContract.swift",
+        "/Users/marcelodearaujo/Desktop/Core/Sources/Core/WebEngineAPI/WebEngineDelegate.swift",
+        "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Window/WindowFacade.swift",
+        "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Window/WindowPresentableModel.swift",
+        "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Window/WindowPresenter.swift",
+        "/Users/marcelodearaujo/Desktop/Core/Sources/Core/_External/BookmarkSwiftDataStore.swift",
+        "/Users/marcelodearaujo/Desktop/Core/Sources/Core/_External/HistorySwiftDataStore.swift",
+        "/Users/marcelodearaujo/Desktop/Core/Sources/Core/_External/WebKitEngineWrapper.swift",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/DerivedSources/resource_bundle_accessor.swift"
+      ],
+      "tempsPath" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.CorePackageTests-arm64-apple-macosx15.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CorePackageTests.build/sources",
+      "importPath" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CorePackageTests.derived/runner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Modules/CoreTests.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CorePackageTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "CorePackageTests",
+      "moduleOutputPath" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Modules/CorePackageTests.swiftmodule",
+      "objects" : [
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CorePackageTests.build/runner.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CorePackageTests.build/CorePackageTests-Swift.h",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "core"
+      ],
+      "outputFileMapPath" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CorePackageTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CorePackageTests.build/runner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Modules/CorePackageTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CorePackageTests.derived/runner.swift"
+      ],
+      "tempsPath" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CorePackageTests.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.CoreTests-arm64-apple-macosx15.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/sources",
+      "importPath" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Bookmark/BookmarkFacadeTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Bookmark/BookmarkPresenterTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Bookmark/Helpers/BookmarkPresenterSpy.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Bookmark/Helpers/BookmarkStoreMock.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/ContentBlocking/ContentBlockingTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/ContentBlocking/SafelistStoreTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Helpers/HelpersTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Helpers/SafelistStoreSpy.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Helpers/WindowPresenterSpy.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/History/Helpers/HistoryPresenterSpy.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/History/Helpers/HistoryStoreMock.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/History/HistoryFacadeTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/History/HistoryPresenterTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Search/SearchEngineURLBuilderTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Search/SearchURLBuilderTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Search/URIFixupTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/TestHelpers/WebViewSpy.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/WebKitEngine/Helpers/WKContentRuleListStoreSpy.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/WebKitEngine/Helpers/WKUserContentControllerSpy.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/WebKitEngine/Helpers/WebViewMock.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/WebKitEngine/Helpers/WebViewProxyDelegateSpy.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/WebKitEngine/WebKitEngineWrapperTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Window/WindowFacadeTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Window/WindowPresenterTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Modules/Core.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "CoreTests",
+      "moduleOutputPath" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Modules/CoreTests.swiftmodule",
+      "objects" : [
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/BookmarkFacadeTests.swift.o",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/BookmarkPresenterTests.swift.o",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/BookmarkPresenterSpy.swift.o",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/BookmarkStoreMock.swift.o",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/ContentBlockingTests.swift.o",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/SafelistStoreTests.swift.o",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/HelpersTests.swift.o",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/SafelistStoreSpy.swift.o",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WindowPresenterSpy.swift.o",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/HistoryPresenterSpy.swift.o",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/HistoryStoreMock.swift.o",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/HistoryFacadeTests.swift.o",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/HistoryPresenterTests.swift.o",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/SearchEngineURLBuilderTests.swift.o",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/SearchURLBuilderTests.swift.o",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/URIFixupTests.swift.o",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WebViewSpy.swift.o",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WKContentRuleListStoreSpy.swift.o",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WKUserContentControllerSpy.swift.o",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WebViewMock.swift.o",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WebViewProxyDelegateSpy.swift.o",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WebKitEngineWrapperTests.swift.o",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WindowFacadeTests.swift.o",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WindowPresenterTests.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx13.0",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-swift-version",
+        "6",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "core"
+      ],
+      "outputFileMapPath" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/BookmarkFacadeTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/BookmarkPresenterTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/BookmarkPresenterSpy.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/BookmarkStoreMock.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/ContentBlockingTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/SafelistStoreTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/HelpersTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/SafelistStoreSpy.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WindowPresenterSpy.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/HistoryPresenterSpy.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/HistoryStoreMock.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/HistoryFacadeTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/HistoryPresenterTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/SearchEngineURLBuilderTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/SearchURLBuilderTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/URIFixupTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WebViewSpy.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WKContentRuleListStoreSpy.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WKUserContentControllerSpy.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WebViewMock.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WebViewProxyDelegateSpy.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WebKitEngineWrapperTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WindowFacadeTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WindowPresenterTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Modules/CoreTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Bookmark/BookmarkFacadeTests.swift",
+        "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Bookmark/BookmarkPresenterTests.swift",
+        "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Bookmark/Helpers/BookmarkPresenterSpy.swift",
+        "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Bookmark/Helpers/BookmarkStoreMock.swift",
+        "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/ContentBlocking/ContentBlockingTests.swift",
+        "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/ContentBlocking/SafelistStoreTests.swift",
+        "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Helpers/HelpersTests.swift",
+        "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Helpers/SafelistStoreSpy.swift",
+        "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Helpers/WindowPresenterSpy.swift",
+        "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/History/Helpers/HistoryPresenterSpy.swift",
+        "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/History/Helpers/HistoryStoreMock.swift",
+        "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/History/HistoryFacadeTests.swift",
+        "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/History/HistoryPresenterTests.swift",
+        "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Search/SearchEngineURLBuilderTests.swift",
+        "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Search/SearchURLBuilderTests.swift",
+        "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Search/URIFixupTests.swift",
+        "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/TestHelpers/WebViewSpy.swift",
+        "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/WebKitEngine/Helpers/WKContentRuleListStoreSpy.swift",
+        "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/WebKitEngine/Helpers/WKUserContentControllerSpy.swift",
+        "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/WebKitEngine/Helpers/WebViewMock.swift",
+        "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/WebKitEngine/Helpers/WebViewProxyDelegateSpy.swift",
+        "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/WebKitEngine/WebKitEngineWrapperTests.swift",
+        "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Window/WindowFacadeTests.swift",
+        "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Window/WindowPresenterTests.swift"
+      ],
+      "tempsPath" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "Core" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "Core",
+      "-package-name",
+      "core",
+      "-incremental",
+      "-c",
+      "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Bookmark/BookmarkAPI.swift",
+      "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Bookmark/BookmarkFacade.swift",
+      "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Bookmark/BookmarkPresentableModel.swift",
+      "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Bookmark/BookmarkPresenter.swift",
+      "/Users/marcelodearaujo/Desktop/Core/Sources/Core/ContentBlocking/ContentBlocking.swift",
+      "/Users/marcelodearaujo/Desktop/Core/Sources/Core/ContentBlocking/SafelistAPI.swift",
+      "/Users/marcelodearaujo/Desktop/Core/Sources/Core/ContentBlocking/SafelistStore.swift",
+      "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Helpers/Helpers.swift",
+      "/Users/marcelodearaujo/Desktop/Core/Sources/Core/History/HistoryAPI.swift",
+      "/Users/marcelodearaujo/Desktop/Core/Sources/Core/History/HistoryFacade.swift",
+      "/Users/marcelodearaujo/Desktop/Core/Sources/Core/History/HistoryPresentableModel.swift",
+      "/Users/marcelodearaujo/Desktop/Core/Sources/Core/History/HistoryPresenter.swift",
+      "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Search/Extensions/NSCharacterSetExtensions.swift",
+      "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Search/Extensions/URLExtensions.swift",
+      "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Search/SearchEngineURLBuilder.swift",
+      "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Search/SearchURLBuilder.swift",
+      "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Search/URIFixup.swift",
+      "/Users/marcelodearaujo/Desktop/Core/Sources/Core/WebEngineAPI/WebEngineContract.swift",
+      "/Users/marcelodearaujo/Desktop/Core/Sources/Core/WebEngineAPI/WebEngineDelegate.swift",
+      "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Window/WindowFacade.swift",
+      "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Window/WindowPresentableModel.swift",
+      "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Window/WindowPresenter.swift",
+      "/Users/marcelodearaujo/Desktop/Core/Sources/Core/_External/BookmarkSwiftDataStore.swift",
+      "/Users/marcelodearaujo/Desktop/Core/Sources/Core/_External/HistorySwiftDataStore.swift",
+      "/Users/marcelodearaujo/Desktop/Core/Sources/Core/_External/WebKitEngineWrapper.swift",
+      "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/DerivedSources/resource_bundle_accessor.swift",
+      "-I",
+      "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/Core-Swift.h",
+      "-swift-version",
+      "6",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "core",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "CorePackageTests" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "CorePackageTests",
+      "-package-name",
+      "core",
+      "-incremental",
+      "-c",
+      "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CorePackageTests.derived/runner.swift",
+      "-I",
+      "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CorePackageTests.build/CorePackageTests-Swift.h",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "core",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "CoreTests" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "CoreTests",
+      "-package-name",
+      "core",
+      "-incremental",
+      "-c",
+      "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Bookmark/BookmarkFacadeTests.swift",
+      "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Bookmark/BookmarkPresenterTests.swift",
+      "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Bookmark/Helpers/BookmarkPresenterSpy.swift",
+      "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Bookmark/Helpers/BookmarkStoreMock.swift",
+      "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/ContentBlocking/ContentBlockingTests.swift",
+      "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/ContentBlocking/SafelistStoreTests.swift",
+      "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Helpers/HelpersTests.swift",
+      "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Helpers/SafelistStoreSpy.swift",
+      "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Helpers/WindowPresenterSpy.swift",
+      "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/History/Helpers/HistoryPresenterSpy.swift",
+      "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/History/Helpers/HistoryStoreMock.swift",
+      "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/History/HistoryFacadeTests.swift",
+      "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/History/HistoryPresenterTests.swift",
+      "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Search/SearchEngineURLBuilderTests.swift",
+      "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Search/SearchURLBuilderTests.swift",
+      "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Search/URIFixupTests.swift",
+      "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/TestHelpers/WebViewSpy.swift",
+      "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/WebKitEngine/Helpers/WKContentRuleListStoreSpy.swift",
+      "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/WebKitEngine/Helpers/WKUserContentControllerSpy.swift",
+      "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/WebKitEngine/Helpers/WebViewMock.swift",
+      "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/WebKitEngine/Helpers/WebViewProxyDelegateSpy.swift",
+      "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/WebKitEngine/WebKitEngineWrapperTests.swift",
+      "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Window/WindowFacadeTests.swift",
+      "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Window/WindowPresenterTests.swift",
+      "-I",
+      "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx13.0",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-swift-version",
+      "6",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "core",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "Core" : [
+
+    ],
+    "CorePackageTests" : [
+      "CoreTests",
+      "Core"
+    ],
+    "CoreTests" : [
+      "Core"
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+    "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CorePackageTests.derived/runner.swift" : {
+      "inputs" : [
+
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CorePackageTests.derived/runner.swift"
+        }
+      ]
+    }
+  },
+  "writeCommands" : {
+    "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Bookmark/BookmarkAPI.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Bookmark/BookmarkFacade.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Bookmark/BookmarkPresentableModel.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Bookmark/BookmarkPresenter.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/ContentBlocking/ContentBlocking.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/ContentBlocking/SafelistAPI.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/ContentBlocking/SafelistStore.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Helpers/Helpers.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/History/HistoryAPI.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/History/HistoryFacade.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/History/HistoryPresentableModel.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/History/HistoryPresenter.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Search/Extensions/NSCharacterSetExtensions.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Search/Extensions/URLExtensions.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Search/SearchEngineURLBuilder.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Search/SearchURLBuilder.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Search/URIFixup.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/WebEngineAPI/WebEngineContract.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/WebEngineAPI/WebEngineDelegate.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Window/WindowFacade.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Window/WindowPresentableModel.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/Window/WindowPresenter.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/_External/BookmarkSwiftDataStore.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/_External/HistorySwiftDataStore.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Sources/Core/_External/WebKitEngineWrapper.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/DerivedSources/resource_bundle_accessor.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/sources"
+    },
+    "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CorePackageTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CorePackageTests.derived/runner.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CorePackageTests.build/sources"
+    },
+    "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CorePackageTests.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/BookmarkAPI.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/BookmarkFacade.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/BookmarkPresentableModel.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/BookmarkPresenter.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/BookmarkSwiftDataStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/ContentBlocking.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/Helpers.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/HistoryAPI.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/HistoryFacade.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/HistoryPresentableModel.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/HistoryPresenter.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/HistorySwiftDataStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/NSCharacterSetExtensions.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/SafelistAPI.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/SafelistStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/SearchEngineURLBuilder.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/SearchURLBuilder.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/URIFixup.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/URLExtensions.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/WebEngineContract.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/WebEngineDelegate.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/WebKitEngineWrapper.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/WindowFacade.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/WindowPresentableModel.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/WindowPresenter.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/Core.build/resource_bundle_accessor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CorePackageTests.build/runner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/BookmarkFacadeTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/BookmarkPresenterSpy.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/BookmarkPresenterTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/BookmarkStoreMock.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/ContentBlockingTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/HelpersTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/HistoryFacadeTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/HistoryPresenterSpy.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/HistoryPresenterTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/HistoryStoreMock.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/SafelistStoreSpy.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/SafelistStoreTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/SearchEngineURLBuilderTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/SearchURLBuilderTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/URIFixupTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WKContentRuleListStoreSpy.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WKUserContentControllerSpy.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WebKitEngineWrapperTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WebViewMock.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WebViewProxyDelegateSpy.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WebViewSpy.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WindowFacadeTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WindowPresenterSpy.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/WindowPresenterTests.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CorePackageTests.product/Objects.LinkFileList"
+    },
+    "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Bookmark/BookmarkFacadeTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Bookmark/BookmarkPresenterTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Bookmark/Helpers/BookmarkPresenterSpy.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Bookmark/Helpers/BookmarkStoreMock.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/ContentBlocking/ContentBlockingTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/ContentBlocking/SafelistStoreTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Helpers/HelpersTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Helpers/SafelistStoreSpy.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Helpers/WindowPresenterSpy.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/History/Helpers/HistoryPresenterSpy.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/History/Helpers/HistoryStoreMock.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/History/HistoryFacadeTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/History/HistoryPresenterTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Search/SearchEngineURLBuilderTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Search/SearchURLBuilderTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Search/URIFixupTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/TestHelpers/WebViewSpy.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/WebKitEngine/Helpers/WKContentRuleListStoreSpy.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/WebKitEngine/Helpers/WKUserContentControllerSpy.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/WebKitEngine/Helpers/WebViewMock.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/WebKitEngine/Helpers/WebViewProxyDelegateSpy.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/WebKitEngine/WebKitEngineWrapperTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Window/WindowFacadeTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcelodearaujo/Desktop/Core/Tests/CoreTests/Window/WindowPresenterTests.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/CoreTests.build/sources"
+    },
+    "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/marcelodearaujo/Desktop/Core/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+    }
+  }
+}
